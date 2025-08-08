@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Rishal — A Passionate Web Developer from India</h2>
+<h2 align="center">Hi 👋, I'm Rishal kozhi — A Passionate Web Developer from India</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76D6D&width=435&lines=Full+Stack+Web+Developer;BSc+Computer+Science+Student;Lifelong+Learner+🚀" />
